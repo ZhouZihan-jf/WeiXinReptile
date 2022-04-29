@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c37e8990-7fc5-4684-8d4c-dd9c9304c017" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles" afterDir="true" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textReptile/src/main/java/MainReptile.java" beforeDir="false" afterPath="$PROJECT_DIR$/textReptile/src/main/java/MainReptile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textReptile/src/main/java/config/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/textReptile/src/main/java/config/Configuration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textReptile/src/main/java/reptile/ReptileText.java" beforeDir="false" afterPath="$PROJECT_DIR$/textReptile/src/main/java/reptile/ReptileText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textReptile/target/classes/MainReptile.class" beforeDir="false" afterPath="$PROJECT_DIR$/textReptile/target/classes/MainReptile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textReptile/target/classes/config/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/textReptile/target/classes/config/Configuration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textReptile/target/classes/reptile/ReptileText.class" beforeDir="false" afterPath="$PROJECT_DIR$/textReptile/target/classes/reptile/ReptileText.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urlsReptile/UrlsReptile.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsReptile/UrlsReptile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urlsReptile/app_msg_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/urlsReptile/app_msg_list.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urlsReptile/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/urlsReptile/config.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="c37e8990-7fc5-4684-8d4c-dd9c9304c017" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +16,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -131,24 +121,6 @@
     <supportedVersion>125</supportedVersion>
     <option name="UPDATE_DEPTH" value="infinity" />
   </component>
-  <component name="SvnFileUrlMappingImpl">
-    <option name="myMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\10259\IdeaProjects\WeiXinReptile" />
-          <option name="myCopyRoot" value="C:\Users\10259\IdeaProjects\WeiXinReptile" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-    <option name="myMoreRealMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\10259\IdeaProjects\WeiXinReptile" />
-          <option name="myCopyRoot" value="C:\Users\10259\IdeaProjects\WeiXinReptile" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="c37e8990-7fc5-4684-8d4c-dd9c9304c017" name="变更" comment="" />
@@ -170,7 +142,7 @@
       <workItem from="1651116742456" duration="4364000" />
       <workItem from="1651121157722" duration="29000" />
       <workItem from="1651121266263" duration="11209000" />
-      <workItem from="1651194099372" duration="11481000" />
+      <workItem from="1651194099372" duration="11960000" />
     </task>
     <task id="LOCAL-00001" summary="创建微信爬虫项目">
       <created>1650594592706</created>
@@ -270,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651141333725</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="优化爬取过程，并进行实践">
+      <created>1651214270760</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1651214270760</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +265,8 @@
     <MESSAGE value="正文也可加载时间" />
     <MESSAGE value="更新了请求头和token" />
     <MESSAGE value="将配置提取出来" />
-    <option name="LAST_COMMIT_MESSAGE" value="将配置提取出来" />
+    <MESSAGE value="优化爬取过程，并进行实践" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化爬取过程，并进行实践" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -295,11 +275,6 @@
           <properties class="java.net.SocketTimeoutException" package="java.net" />
           <option name="timeStamp" value="10" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/textReptile/src/main/java/reptile/ReptileText.java</url>
-          <line>97</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
