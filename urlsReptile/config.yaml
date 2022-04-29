@@ -1,0 +1,51 @@
+#cookiet要自己看network,会变.user_agent在一个平台发的请求一般不变
+cookie: appmsglist_action_3926350931=card; noticeLoginFlag=1; pac_uid=0_491ea0b457939; iip=0; pgv_pvid=6942274768; eas_sid=A1v6k5j0I5I0a3D1y198E9U1j7; ptui_loginuin=1025974653; RK=3UNpIUBBe2; ptcz=11d299be90e82ff914c7894dada9541749497c8ab976bafd0109ec962d96b2e1; ua_id=AnmnJ7za0dk9RH2GAAAAAD2ov_i01MdDgvLMmozbrIA=; mm_lang=zh_CN; bizuin=3926350931; rand_info=CAESILCQZnUjfzTJek8EsCQsqohjnljY7AOlbVjfKY0xBMuN; slave_bizuin=3926350931; data_bizuin=3926350931; data_ticket=I2MrkBMj71rIGwElRQfDEMBxreW3RQpiK6X2YvRtOMl94u4jYcRVbNqcTB6Uyt3x; slave_sid=aF9OMWRoanRBMXBlWnBXMTNXaHlpQjBiMEV5dlJCclZFemhlUnFFS2RpVVZvMVJvSjRmNzJRX2oyUldmSTJESTRTb0M1cnZ5QzdUQ09SdjFlTGJLV2ZoOUh5OUtlY0wyRHZOandIRERENmpLSWI5ZjVtS0lPZzAzM09KVTF4Y2NZa1pRdVV6alZudzRFdUhV; slave_user=gh_5191e9ab7419; xid=11febe9d633197cdd3ad4d5d677c4c1b; openid2ticket_oU1wH6oSCmnb8fjsg6tR656julwQ=n+Jjc9JBXU+y8ziRdI9xgI9dbRgMbaBSTiuKBCinmsI=
+user_agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50
+#每个公众号的fakeid都不一样，但是一般不变
+fakeid:
+  - MjM5OTY4NjAwMQ==
+  - MzI3MzAzMjMwNQ==
+  - MzU4ODQyNTU3Nw==
+  - MzI2NjEzOTg4MQ==
+  - MzIwMTU0MTM4OA==
+  - MzI3MDQxNzk5NA==
+  - MzIxMjUyMzQ5Nw==
+  - MzA5OTUwMTE4Mg==
+  - MzA4NjU3MDY5OA==
+  - MzAwNDA4MTI3MA==
+  - MzkyOTE2OTU1NQ==
+  - MzI2NDQ2ODMzMA==
+  - MzA5MTEwMDY1MA==
+  - MzU5NDE0NTA3OQ==
+  - MzIyMDU4MTExOA==
+  - MzU4OTU5NTA0NQ==
+  - MzIyMjI5ODI2OA==
+  - MzA4MDA0MzcwMA==
+  - MzI5ODY1MDY0Mg==
+  - MzAxODIwODY1MA==
+  - MzI3NDI5MjI4OQ==
+  - MzA5NzAwNjg4NA==
+  - MjM5MTE3NDE4NQ==
+  - MzAwMTY5MTk1OA==
+  - MzIwMjc1NDUxMw==
+  - MzA3Mzg1NzkxMQ==
+  - MzIwMzAwMjM3OQ==
+  - MzkyOTIwNzE3Mg==
+  - MzAxMjk4MDcwMw==
+  - MzU3NjgyOTI3OA==
+  - MzkyNjIxNTg5Mw==
+  - MzAxMjYzNjA5OA==
+  - MzIzMjAwNzAyOA==
+  - MzA3NTY3MDYwMg==
+  - MzIyMTEwODQwMg==
+  - MzU5MTE1MDg4OQ==
+
+#token会经常变
+token: 388581767
+
+#mongodb相关配置
+host: '120.77.66.52'
+port: 37016
+dbName: 'reptile_test'
+uName: 'urls'
+pName: 'ip_proxy'

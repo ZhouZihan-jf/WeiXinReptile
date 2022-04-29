@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c37e8990-7fc5-4684-8d4c-dd9c9304c017" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textReptile/src/main/java/MainReptile.java" beforeDir="false" afterPath="$PROJECT_DIR$/textReptile/src/main/java/MainReptile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textReptile/src/main/java/config/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/textReptile/src/main/java/config/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textReptile/src/main/java/reptile/ReptileText.java" beforeDir="false" afterPath="$PROJECT_DIR$/textReptile/src/main/java/reptile/ReptileText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textReptile/target/classes/MainReptile.class" beforeDir="false" afterPath="$PROJECT_DIR$/textReptile/target/classes/MainReptile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textReptile/target/classes/config/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/textReptile/target/classes/config/Configuration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textReptile/target/classes/reptile/ReptileText.class" beforeDir="false" afterPath="$PROJECT_DIR$/textReptile/target/classes/reptile/ReptileText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsReptile/UrlsReptile.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsReptile/UrlsReptile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsReptile/app_msg_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/urlsReptile/app_msg_list.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsReptile/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/urlsReptile/config.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="288NkLfVm4NZ57DyNOfESB3FrVA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/10259/IdeaProjects/news-reptile",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\10259\IdeaProjects\WeiXinReptile\proxyIP\src" />
+      <recent name="C:\Users\10259\IdeaProjects\WeiXinReptile\urlsReptile" />
+      <recent name="C:\Users\10259\IdeaProjects\WeiXinReptile\textReptile" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="preparation" />
+      <recent name="pojo" />
+      <recent name="tool.ipProxy" />
+      <recent name="tools.ipProxy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.MainReptile">
+    <configuration name="MainReptile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainReptile" />
+      <module name="textReptile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Start" />
+      <module name="IPProxy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UrlsReptile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="urlsReptile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/urlsReptile" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\10259\IdeaProjects\WeiXinReptile\urlsReptile\UrlsReptile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.UrlsReptile" />
+      <item itemvalue="应用程序.MainReptile" />
+      <item itemvalue="应用程序.Start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.MainReptile" />
+        <item itemvalue="Python.UrlsReptile" />
+        <item itemvalue="应用程序.Start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" myAutoUpdateAfterCommit="true" cleanupOnStartRun="true">
+    <configuration>C:\Users\10259\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="UPDATE_DEPTH" value="infinity" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\10259\IdeaProjects\WeiXinReptile" />
+          <option name="myCopyRoot" value="C:\Users\10259\IdeaProjects\WeiXinReptile" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\10259\IdeaProjects\WeiXinReptile" />
+          <option name="myCopyRoot" value="C:\Users\10259\IdeaProjects\WeiXinReptile" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c37e8990-7fc5-4684-8d4c-dd9c9304c017" name="变更" comment="" />
+      <created>1650594395355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650594395355</updated>
+      <workItem from="1650594396465" duration="4459000" />
+      <workItem from="1650606815966" duration="1417000" />
+      <workItem from="1650608255898" duration="741000" />
+      <workItem from="1650609048255" duration="5528000" />
+      <workItem from="1650765026642" duration="9186000" />
+      <workItem from="1650849589039" duration="7118000" />
+      <workItem from="1650879102473" duration="311000" />
+      <workItem from="1650879425813" duration="1209000" />
+      <workItem from="1650934879669" duration="19587000" />
+      <workItem from="1651021654482" duration="15950000" />
+      <workItem from="1651108645680" duration="255000" />
+      <workItem from="1651116742456" duration="4364000" />
+      <workItem from="1651121157722" duration="29000" />
+      <workItem from="1651121266263" duration="11209000" />
+      <workItem from="1651194099372" duration="11481000" />
+    </task>
+    <task id="LOCAL-00001" summary="创建微信爬虫项目">
+      <created>1650594592706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650594592706</updated>
+    </task>
+    <task id="LOCAL-00002" summary="微信爬取文章内容">
+      <created>1650617665080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650617665080</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完善详细信息的爬取，在爬取url端加上了布隆过滤器">
+      <created>1650788419942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650788419942</updated>
+    </task>
+    <task id="LOCAL-00004" summary="在java项目中加入了爬取代理ip功能，并且将大的项目切分（微服务）">
+      <created>1650879835190</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650879835190</updated>
+    </task>
+    <task id="LOCAL-00005" summary="在各个项目中都加入了IP代理，并且初步测试成功">
+      <created>1650957612272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650957612272</updated>
+    </task>
+    <task id="LOCAL-00006" summary="时间戳转成时间">
+      <created>1650967573073</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650967573073</updated>
+    </task>
+    <task id="LOCAL-00007" summary="正文也可加载时间">
+      <created>1651024699726</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651024699726</updated>
+    </task>
+    <task id="LOCAL-00008" summary="正文也可加载时间">
+      <created>1651029227311</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651029227311</updated>
+    </task>
+    <task id="LOCAL-00009" summary="更新了请求头和token">
+      <created>1651121745391</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1651121745391</updated>
+    </task>
+    <task id="LOCAL-00010" summary="更新了请求头和token">
+      <created>1651126275392</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651126275392</updated>
+    </task>
+    <task id="LOCAL-00011" summary="将配置提取出来">
+      <created>1651140691073</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651140691073</updated>
+    </task>
+    <task id="LOCAL-00012" summary="将配置提取出来">
+      <created>1651141289736</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1651141289736</updated>
+    </task>
+    <task id="LOCAL-00013" summary="将配置提取出来">
+      <created>1651141305630</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1651141305630</updated>
+    </task>
+    <task id="LOCAL-00014" summary="将配置提取出来">
+      <created>1651141333725</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651141333725</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建微信爬虫项目" />
+    <MESSAGE value="微信爬取文章内容" />
+    <MESSAGE value="完善详细信息的爬取，在爬取url端加上了布隆过滤器" />
+    <MESSAGE value="在java项目中加入了爬取代理ip功能，并且将大的项目切分（微服务）" />
+    <MESSAGE value="在各个项目中都加入了IP代理，并且初步测试成功" />
+    <MESSAGE value="时间戳转成时间" />
+    <MESSAGE value="正文也可加载时间" />
+    <MESSAGE value="更新了请求头和token" />
+    <MESSAGE value="将配置提取出来" />
+    <option name="LAST_COMMIT_MESSAGE" value="将配置提取出来" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.net.SocketTimeoutException" package="java.net" />
+          <option name="timeStamp" value="10" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/textReptile/src/main/java/reptile/ReptileText.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WeiXinReptile$main.coverage" NAME="UrlsReptile 覆盖结果" MODIFIED="1651126192690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urlsReptile" />
+    <SUITE FILE_PATH="coverage/WeiXinReptile$UrlsReptile.coverage" NAME="UrlsReptile 覆盖结果" MODIFIED="1651201628069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urlsReptile" />
+  </component>
+</project>

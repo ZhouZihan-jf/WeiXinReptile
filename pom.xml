@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>WeiXinReptile</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>IPProxy</module>
+        <module>textReptile</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>18</maven.compiler.source>
+        <maven.compiler.target>18</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+        <!-- 阿里巴巴 JSON -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.47</version>
+        </dependency>
+        <!-- HttpClinet HTTP请求 -->
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>4.5.2</version>
+        </dependency>
+        <!-- Jsoup 解析HTML文本 -->
+        <dependency>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.11.3</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.mongodb</groupId>
+            <artifactId>mongo-java-driver</artifactId>
+            <version>3.12.10</version>
+        </dependency>
+    </dependencies>
+
+</project>
